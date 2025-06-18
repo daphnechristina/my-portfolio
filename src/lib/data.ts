@@ -86,7 +86,7 @@ export const skills = {
     "HTML",
     "CSS",
   ],
-  backendDevelopment: ["Nodejs", "Expressjs"],
+  backendDevelopment: ["Nodejs"],
   uiUxDesign: ["Figma"]
   //databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
   //cloudAndDevOps: ["AWS"],
@@ -110,6 +110,7 @@ export const projects = [
       "Use AI image generation for your designs.",
       "Upload your own images for your designs.",
     ],
+    link: "https://shirt-design-omega.vercel.app"
   },
   //{
     //title: "Mental Aarog",
