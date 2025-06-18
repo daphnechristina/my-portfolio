@@ -1,4 +1,4 @@
-import { workExperience } from "@/lib/data";
+{/*import { workExperience } from "@/lib/data";
 import TimelineItem from "./TimelineItem";
 import { Briefcase } from "lucide-react";
 import { motion } from "framer-motion";
@@ -70,3 +70,4 @@ export default function ExperienceSection() {
     </section>
   );
 }
+*/}
